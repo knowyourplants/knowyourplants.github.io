@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "scientificName": "Solanum lycopersicum",
+    "description": "A juicy fruit often used as a vegetable in cooking.",
+    "sunlight": "Full Sun",
+    "water": "Moderate",
+    "image": "images/tomato.jpg",
+    "soil": "Well-draining, fertile soil",
+    "temperature": "20–30°C",
+    "climate": "Warm-season",
+    "growingSeason": "Spring to early summer",
+    "daysToMature": "60–85 days",
+    "harvestTime": "Mid-summer to early fall",
+    "nutrients": [
+      { "name": "Vitamin C", "benefit": "Boosts immune system" },
+      { "name": "Lycopene", "benefit": "Protects against heart disease and cancer" },
+      { "name": "Potassium", "benefit": "Supports heart and muscle function" }
+    ],
+    "uses": [
+      "Used in salads, sauces, and soups",
+      "Base for ketchup and chutneys",
+      "Eaten raw or cooked"
+    ],
+    "tips": [
+      "Plant in a sunny spot",
+      "Stake or cage for support",
+      "Water regularly but avoid waterlogging",
+      "Space plants 45–60 cm (18–24 inches) apart"
+    ]
+  },
+  {
+    "id": "spinach",
+    "name": "Spinach",
+    "scientificName": "Spinacia oleracea",
+    "description": "A leafy green vegetable packed with nutrients.",
+    "sunlight": "Partial to Full Sun",
+    "water": "High",
+    "image": "images/spinach.jpg",
+    "soil": "Moist, well-draining soil",
+    "temperature": "10–24°C",
+    "climate": "Cool-season",
+    "growingSeason": "Early spring and fall",
+    "daysToMature": "35–50 days",
+    "harvestTime": "Spring and late fall",
+    "nutrients": [
+      { "name": "Iron", "benefit": "Prevents anemia and boosts energy" },
+      { "name": "Vitamin K", "benefit": "Essential for bone health" },
+      { "name": "Folate", "benefit": "Important for cell growth and metabolism" }
+    ],
+    "uses": [
+      "Used in salads, smoothies, and curries",
+      "Can be sautéed or steamed",
+      "Popular in palak paneer and quiches"
+    ],
+    "tips": [
+      "Harvest early for tender leaves",
+      "Avoid hot weather to prevent bolting",
+      "Water evenly and keep soil cool",
+      "Space plants 5–10 cm (2–4 inches) apart"
+    ]
+  },
+  {
+    "id": "carrot",
+    "name": "Carrot",
+    "scientificName": "Daucus carota",
+    "description": "A root vegetable known for its crunch and sweetness.",
+    "sunlight": "Full Sun",
+    "water": "Moderate",
+    "image": "images/carrot.jpg",
+    "soil": "Loose, sandy, well-drained",
+    "temperature": "16–24°C",
+    "climate": "Cool-season",
+    "growingSeason": "Spring and Fall",
+    "daysToMature": "70–80 days",
+    "harvestTime": "Late spring or fall",
+    "nutrients": [
+      { "name": "Beta-Carotene", "benefit": "Supports eye health and vision" },
+      { "name": "Vitamin A", "benefit": "Boosts immune and skin health" }
+    ],
+    "uses": [
+      "Eaten raw in salads",
+      "Used in soups, stews, and desserts",
+      "Made into juice or pickles"
+    ],
+    "tips": [
+      "Thin seedlings early to avoid crowding",
+      "Keep soil consistently moist",
+      "Avoid heavy clay soil",
+      "Space plants 5–7 cm (2–3 inches) apart"
+    ]
+  },
+  {
+    "id": "banana",
+    "name": "Banana",
+    "scientificName": "Musa",
+    "description": "A tropical fruit rich in energy and potassium.",
+    "sunlight": "Full Sun",
+    "water": "High",
+    "image": "images/banana.jpg",
+    "soil": "Well-drained loamy soil",
+    "temperature": "25–35°C",
+    "climate": "Tropical",
+    "growingSeason": "Year-round in warm climates",
+    "daysToMature": "9–12 months",
+    "harvestTime": "Anytime in warm climates",
+    "nutrients": [
+      { "name": "Potassium", "benefit": "Regulates fluid balance and muscle function" },
+      { "name": "Vitamin B6", "benefit": "Helps with metabolism and brain function" },
+      { "name": "Fiber", "benefit": "Aids digestion and gut health" }
+    ],
+    "uses": [
+      "Eaten raw as a snack",
+      "Used in smoothies, baking, and desserts",
+      "Dried for chips or powder"
+    ],
+    "tips": [
+      "Protect from wind damage",
+      "Mulch well to retain moisture",
+      "Harvest when the fruit turns yellow-green",
+      "Space plants 2–3 meters (6–10 feet) apart"
+    ]
+  },
+  {
+    "id": "coriander",
+    "name": "Coriander",
+    "scientificName": "Coriandrum sativum",
+    "description": "An herb with flavorful leaves and seeds used in cooking.",
+    "sunlight": "Full Sun to Partial Shade",
+    "water": "Moderate",
+    "image": "images/coriander.jpg",
+    "soil": "Fertile, well-draining",
+    "temperature": "17–27°C",
+    "climate": "Temperate",
+    "growingSeason": "Spring and Fall",
+    "daysToMature": "40–45 days",
+    "harvestTime": "Spring and early fall",
+    "nutrients": [
+      { "name": "Vitamin K", "benefit": "Promotes healthy bones" },
+      { "name": "Antioxidants", "benefit": "Reduce inflammation and fight disease" }
+    ],
+    "uses": [
+      "Used as garnish and flavoring in dishes",
+      "Seeds used in spices and masalas",
+      "Leaves used in chutneys and sauces"
+    ],
+    "tips": [
+      "Sow seeds directly in soil",
+      "Keep soil moist",
+      "Harvest leaves before flowering",
+      "Space plants 15–20 cm (6–8 inches) apart"
+    ]
+  },
+  {
+  "id": "brinjal",
+  "name": "Brinjal (Eggplant)",
+  "scientificName": "Solanum melongena",
+  "description": "A glossy purple vegetable often used in curries and stir-fries.",
+  "sunlight": "Full Sun",
+  "water": "Moderate",
+  "image": "images/brinjal.jpg",
+  "soil": "Well-drained loamy soil",
+  "temperature": "21–30°C",
+  "climate": "Warm-season",
+  "growingSeason": "Spring to Summer",
+  "daysToMature": "100–120 days",
+  "harvestTime": "Late summer to fall",
+  "nutrients": [
+    { "name": "Fiber", "benefit": "Aids digestion" },
+    { "name": "Antioxidants", "benefit": "Reduce cell damage" },
+    { "name": "Vitamin B1", "benefit": "Supports nerve function" }
+  ],
+  "uses": [
+    "Used in curries like baingan bharta",
+    "Fried, roasted, or grilled",
+    "Stuffed and baked"
+  ],
+  "tips": [
+    "Stake plants to support heavy fruit",
+    "Harvest when fruits are shiny and firm",
+    "Avoid overwatering",
+    "Space plants 45–60 cm (18–24 inches) apart"
+  ]
+},
+{
+  "id": "mango",
+  "name": "Mango",
+  "scientificName": "Mangifera indica",
+  "description": "A juicy tropical fruit known as the king of fruits.",
+  "sunlight": "Full Sun",
+  "water": "Moderate (more during fruiting)",
+  "image": "images/mango.jpg",
+  "soil": "Sandy loam, well-drained",
+  "temperature": "24–35°C",
+  "climate": "Tropical to subtropical",
+  "growingSeason": "Spring to Summer",
+  "daysToMature": "120–150 days (after flowering)",
+  "harvestTime": "Late summer",
+  "nutrients": [
+    { "name": "Vitamin A", "benefit": "Boosts eye and skin health" },
+    { "name": "Vitamin C", "benefit": "Supports immunity and collagen" },
+    { "name": "Folate", "benefit": "Aids in cell growth" }
+  ],
+  "uses": [
+    "Eaten fresh or in smoothies",
+    "Used in desserts and pickles",
+    "Made into juices, chutneys, and jams"
+  ],
+  "tips": [
+    "Requires good sunlight and airflow",
+    "Prune yearly for shape and fruiting",
+    "Fertilize before flowering season",
+    "Space trees 10–15 meters (30–50 feet) apart"
+  ]
+},
+{
+  "id": "pineapple",
+  "name": "Pineapple",
+  "scientificName": "Ananas comosus",
+  "description": "A tropical fruit with a tangy-sweet taste and spiky appearance.",
+  "sunlight": "Full Sun",
+  "water": "Low to Moderate",
+  "image": "images/pineapple.jpg",
+  "soil": "Well-drained sandy soil",
+  "temperature": "22–32°C",
+  "climate": "Tropical",
+  "growingSeason": "Spring",
+  "daysToMature": "16–24 months",
+  "harvestTime": "Late summer or early fall",
+  "nutrients": [
+    { "name": "Vitamin C", "benefit": "Boosts immunity" },
+    { "name": "Bromelain", "benefit": "Helps digestion and reduces inflammation" }
+  ],
+  "uses": [
+    "Eaten fresh or juiced",
+    "Used in salads and desserts",
+    "Grilled or cooked in savory dishes"
+  ],
+  "tips": [
+    "Plant in pots or raised beds",
+    "Fertilize monthly",
+    "Harvest when fruit turns golden yellow",
+    "Space plants 30–60 cm (12–24 inches) apart"
+  ]
+},
+{
+  "id": "mint",
+  "name": "Mint",
+  "scientificName": "Mentha",
+  "description": "A refreshing herb known for its strong aroma and cooling effect.",
+  "sunlight": "Partial to Full Sun",
+  "water": "High",
+  "image": "images/mint.jpg",
+  "soil": "Moist, well-drained soil",
+  "temperature": "13–30°C",
+  "climate": "Temperate to tropical",
+  "growingSeason": "Spring to Autumn",
+  "daysToMature": "60–90 days",
+  "harvestTime": "Late spring to fall",
+  "nutrients": [
+    { "name": "Menthol", "benefit": "Provides cooling and anti-inflammatory effects" },
+    { "name": "Vitamin A", "benefit": "Supports vision and immunity" }
+  ],
+  "uses": [
+    "Used in teas, chutneys, and refreshing drinks",
+    "Flavoring in food and desserts",
+    "Used in traditional remedies for digestion"
+  ],
+  "tips": [
+    "Grows fast and spreads easily",
+    "Best grown in containers to control spreading",
+    "Harvest regularly for bushy growth",
+    "Space plants 30–45 cm (12–18 inches) apart"
+  ]
+},
+{
+  "id": "papaya",
+  "name": "Papaya",
+  "scientificName": "Carica papaya",
+  "description": "A tropical fruit that is rich in enzymes and vitamins.",
+  "sunlight": "Full Sun",
+  "water": "Moderate to High",
+  "image": "images/papaya.jpg",
+  "soil": "Loamy, well-drained",
+  "temperature": "22–35°C",
+  "climate": "Tropical to subtropical",
+  "growingSeason": "Spring and Summer",
+  "daysToMature": "150–180 days",
+  "harvestTime": "All year in warm climates",
+  "nutrients": [
+    { "name": "Papain", "benefit": "Aids digestion" },
+    { "name": "Vitamin C", "benefit": "Boosts immunity" },
+    { "name": "Vitamin A", "benefit": "Good for eyes and skin" }
+  ],
+  "uses": [
+    "Eaten raw or blended in smoothies",
+    "Used in salads and desserts",
+    "Green papaya used in curries and pickles"
+  ],
+  "tips": [
+    "Protect young plants from wind",
+    "Don’t overwater to avoid root rot",
+    "Harvest when skin turns yellow-orange",
+    "Space plants 2–3 meters (6–10 feet) apart"
+  ]
+},
+{
+  "id": "cucumber",
+  "name": "Cucumber",
+  "scientificName": "Cucumis sativus",
+  "description": "A cool, hydrating vegetable used fresh or in salads.",
+  "sunlight": "Full Sun",
+  "water": "High",
+  "image": "images/cucumber.jpg",
+  "soil": "Loamy, rich in organic matter",
+  "temperature": "20–30°C",
+  "climate": "Warm-season",
+  "growingSeason": "Late spring to summer",
+  "daysToMature": "50–70 days",
+  "harvestTime": "Summer",
+  "nutrients": [
+    { "name": "Water (95%)", "benefit": "Hydrates and cools the body" },
+    { "name": "Vitamin K", "benefit": "Supports blood clotting and bone health" }
+  ],
+  "uses": [
+    "Used in salads, raita, and sandwiches",
+    "Made into pickles",
+    "Used in skin treatments"
+  ],
+  "tips": [
+    "Train vines on trellises to save space",
+    "Harvest young for best taste",
+    "Water consistently to avoid bitterness",
+    "Space plants 30–45 cm (12–18 inches) apart"
+  ]
+},
+{
+  "id": "ladyfinger",
+  "name": "Ladyfinger (Okra)",
+  "scientificName": "Abelmoschus esculentus",
+  "description": "A warm-season vegetable used in many Indian dishes.",
+  "sunlight": "Full Sun",
+  "water": "Moderate",
+  "image": "images/ladyfinger.jpg",
+  "soil": "Well-drained, fertile",
+  "temperature": "24–35°C",
+  "climate": "Warm-season",
+  "growingSeason": "Spring to summer",
+  "daysToMature": "50–65 days",
+  "harvestTime": "Late summer",
+  "nutrients": [
+    { "name": "Fiber", "benefit": "Aids digestion" },
+    { "name": "Folate", "benefit": "Good for pregnancy and cell growth" },
+    { "name": "Vitamin C", "benefit": "Boosts immunity" }
+  ],
+  "uses": [
+    "Used in bhindi masala and sambhar",
+    "Fried or curried",
+    "Also pickled"
+  ],
+  "tips": [
+    "Harvest when pods are 3–5 inches long",
+    "Use gloves to avoid skin irritation from sap",
+    "Water during dry spells",
+    "Space plants 30–45 cm (12–18 inches) apart"
+  ]
+},
+{
+  "id": "lemon",
+  "name": "Lemon",
+  "scientificName": "Citrus limon",
+  "description": "A citrus fruit rich in Vitamin C, widely used for its tangy flavor and health benefits.",
+  "sunlight": "Full Sun",
+  "water": "Moderate",
+  "image": "images/lemon.jpg",
+  "soil": "Slightly acidic, well-drained",
+  "temperature": "21–30°C",
+  "climate": "Subtropical to tropical",
+  "growingSeason": "Spring to Summer",
+  "daysToMature": "180–240 days",
+  "harvestTime": "Winter to early spring",
+  "nutrients": [
+    { "name": "Vitamin C", "benefit": "Boosts immunity and collagen production" },
+    { "name": "Citric Acid", "benefit": "Aids in digestion and kidney stone prevention" }
+  ],
+  "uses": [
+    "Used in drinks, teas, and lemonades",
+    "Enhances flavor in food and desserts",
+    "Natural preservative and cleaner"
+  ],
+  "tips": [
+    "Needs consistent watering",
+    "Protect from frost",
+    "Prune to improve airflow",
+    "Space trees 3–5 meters (10–15 feet) apart"
+  ]
+},
+{
+  "id": "fenugreek",
+  "name": "Fenugreek (Methi)",
+  "scientificName": "Trigonella foenum-graecum",
+  "description": "A leafy green vegetable and spice known for its distinct aroma and health benefits.",
+  "sunlight": "Full Sun",
+  "water": "Moderate",
+  "image": "images/fenugreek.jpg",
+  "soil": "Loamy and well-drained",
+  "temperature": "15–25°C",
+  "climate": "Cool to moderate",
+  "growingSeason": "Winter",
+  "daysToMature": "30–40 days (leaves), 90–120 days (seeds)",
+  "harvestTime": "Winter",
+  "nutrients": [
+    { "name": "Iron", "benefit": "Supports blood production" },
+    { "name": "Fiber", "benefit": "Improves digestion" },
+    { "name": "Protodioscin", "benefit": "Enhances metabolism" }
+  ],
+  "uses": [
+    "Used as leafy green vegetable",
+    "Seeds used in spices and pickles",
+    "Tea for digestion and diabetes"
+  ],
+  "tips": [
+    "Harvest leaves when young and tender",
+    "Thin out seedlings for better growth",
+    "Avoid waterlogging",
+    "Space plants 15–20 cm (6–8 inches) apart"
+  ]
+},
+{
+  "id": "guava",
+  "name": "Guava",
+  "scientificName": "Psidium guajava",
+  "description": "A tropical fruit known for its sweet flavor and numerous health benefits.",
+  "sunlight": "Full Sun",
+  "water": "Moderate",
+  "image": "images/guava.jpg",
+  "soil": "Well-drained, sandy loam",
+  "temperature": "23–28°C",
+  "climate": "Tropical to subtropical",
+  "growingSeason": "Spring to Summer",
+  "daysToMature": "150–180 days",
+  "harvestTime": "Late summer to fall",
+  "nutrients": [
+    { "name": "Vitamin C", "benefit": "Boosts immunity" },
+    { "name": "Lycopene", "benefit": "Antioxidant and cancer-fighting properties" },
+    { "name": "Fiber", "benefit": "Aids digestion" }
+  ],
+  "uses": [
+    "Eaten raw or juiced",
+    "Used in jams and jellies",
+    "Leaves used in herbal teas"
+  ],
+  "tips": [
+    "Prune to maintain shape and airflow",
+    "Keep soil moist but not waterlogged",
+    "Harvest when fruits are slightly soft",
+    "Space trees 3–5 meters (10–15 feet) apart"
+  ]
+},
+{
+  "id": "pumpkin",
+  "name": "Pumpkin",
+  "scientificName": "Cucurbita pepo",
+  "description": "A large fruit used in cooking, baking, and as animal feed.",
+  "sunlight": "Full Sun",
+  "water": "Moderate to High",
+  "image": "images/pumpkin.jpg",
+  "soil": "Rich, well-drained loamy soil",
+  "temperature": "20–32°C",
+  "climate": "Warm-season",
+  "growingSeason": "Summer to Autumn",
+  "daysToMature": "90–120 days",
+  "harvestTime": "Autumn",
+  "nutrients": [
+    { "name": "Beta-carotene", "benefit": "Converted to Vitamin A, supports vision" },
+    { "name": "Fiber", "benefit": "Good for gut health" },
+    { "name": "Potassium", "benefit": "Balances blood pressure" }
+  ],
+  "uses": [
+    "Used in curries, pies, and soups",
+    "Roasted or steamed",
+    "Seeds used as snack or in granola"
+  ],
+  "tips": [
+    "Requires space to spread vines",
+    "Keep soil moist during flowering",
+    "Harvest when skin hardens",
+    "Space plants 90–120 cm (3–4 feet) apart"
+  ]
+},
+{
+  "id": "strawberry",
+  "name": "Strawberry",
+  "scientificName": "Fragaria × ananassa",
+  "description": "A sweet, red fruit known for its juicy flavor and antioxidants.",
+  "sunlight": "Full Sun",
+  "water": "Moderate",
+  "image": "images/strawberry.jpg",
+  "soil": "Slightly acidic, loamy, well-drained",
+  "temperature": "18–25°C",
+  "climate": "Temperate to subtropical",
+  "growingSeason": "Spring",
+  "daysToMature": "90–120 days",
+  "harvestTime": "Spring to early summer",
+  "nutrients": [
+    { "name": "Vitamin C", "benefit": "Boosts skin health and immunity" },
+    { "name": "Antioxidants", "benefit": "Fights oxidative stress" },
+    { "name": "Folate", "benefit": "Good for cell function and pregnancy" }
+  ],
+  "uses": [
+    "Eaten raw, in desserts, smoothies, and salads",
+    "Used to make jam and syrups",
+    "Popular in cosmetics and skincare"
+  ],
+  "tips": [
+    "Mulch well to protect fruits",
+    "Pinch runners for better yield",
+    "Protect from birds with netting",
+    "Space plants 30–45 cm (12–18 inches) apart"
+  ]
+},
+{
+  "id": "watermelon",
+  "name": "Watermelon",
+  "scientificName": "Citrullus lanatus",
+  "description": "A juicy fruit perfect for summer, packed with hydration and sweetness.",
+  "sunlight": "Full Sun",
+  "water": "High",
+  "image": "images/watermelon.jpg",
+  "soil": "Well-drained sandy loam",
+  "temperature": "22–32°C",
+  "climate": "Hot and dry",
+  "growingSeason": "Summer",
+  "daysToMature": "80–100 days",
+  "harvestTime": "Late summer",
+  "nutrients": [
+    { "name": "Water (92%)", "benefit": "Prevents dehydration" },
+    { "name": "Lycopene", "benefit": "Supports heart health" },
+    { "name": "Vitamin C", "benefit": "Strengthens immunity" }
+  ],
+  "uses": [
+    "Eaten fresh, in juices, and fruit salads",
+    "Used in coolers and smoothies",
+    "Seeds roasted as snacks"
+  ],
+  "tips": [
+    "Avoid overwatering near harvest time",
+    "Check tendrils near fruit for ripeness",
+    "Needs space to grow vines",
+    "Space plants 90–120 cm (3–4 feet) apart"
+  ]
+},
+{
+  "id": "chili",
+  "name": "Chili Pepper",
+  "scientificName": "Capsicum annuum",
+  "description": "A spicy fruit used to add heat and flavor to food.",
+  "sunlight": "Full Sun",
+  "water": "Moderate",
+  "image": "images/chili.jpg",
+  "soil": "Well-drained fertile soil",
+  "temperature": "20–30°C",
+  "climate": "Warm and dry",
+  "growingSeason": "Summer",
+  "daysToMature": "60–90 days",
+  "harvestTime": "Summer to early autumn",
+  "nutrients": [
+    { "name": "Capsaicin", "benefit": "Anti-inflammatory and boosts metabolism" },
+    { "name": "Vitamin C", "benefit": "Promotes skin and immune health" },
+    { "name": "Vitamin A", "benefit": "Good for vision" }
+  ],
+  "uses": [
+    "Used in curries, pickles, sauces",
+    "Dried and powdered into chili flakes",
+    "Medicinal use for pain relief"
+  ],
+  "tips": [
+    "Harvest when bright red for full heat",
+    "Water regularly but don’t over-soak",
+    "Pinch tops for bushier growth",
+    "Space plants 30–45 cm (12–18 inches) apart"
+  ]
+},
+{
+  "id": "bittergourd",
+  "name": "Bitter Gourd (Karela)",
+  "scientificName": "Momordica charantia",
+  "description": "A bitter fruit known for its health benefits, especially in diabetes management.",
+  "sunlight": "Full Sun",
+  "water": "Moderate",
+  "image": "images/bittergourd.jpg",
+  "soil": "Well-drained, fertile soil",
+  "temperature": "20–30°C",
+  "climate": "Warm-season",
+  "growingSeason": "Spring to summer",
+  "daysToMature": "60–90 days",
+  "harvestTime": "Summer",
+  "nutrients": [
+    { "name": "Vitamin C", "benefit": "Boosts immunity" },
+    { "name": "Antioxidants", "benefit": "Fights oxidative stress" },
+    { "name": "Fiber", "benefit": "Aids digestion" }
+  ],
+  "uses": [
+    "Used in curries and stir-fries",
+    "Juiced for health benefits",
+    "Used in traditional medicine"
+  ],
+  "tips": [
+    "Harvest when young for less bitterness",
+    "Water regularly but avoid waterlogging",
+    "Train vines on trellises for better yield",
+    "Space plants 30–45 cm (12–18 inches) apart"
+  ]
+},
+{
+  "id": "zucchini",
+  "name": "Zucchini",
+  "scientificName": "Cucurbita pepo",
+  "description": "A summer squash that is versatile in cooking and low in calories.",
+  "sunlight": "Full Sun",
+  "water": "Moderate",
+  "image": "images/zucchini.jpg",
+  "soil": "Well-drained, rich in organic matter",
+  "temperature": "20–30°C",
+  "climate": "Warm-season",
+  "growingSeason": "Spring to summer",
+  "daysToMature": "50–70 days",
+  "harvestTime": "Summer",
+  "nutrients": [
+    { "name": "Vitamin C", "benefit": "Supports immune function" },
+    { "name": "Potassium", "benefit": "Regulates blood pressure" },
+    { "name": "Fiber", "benefit": "Aids digestion" }
+  ],
+  "uses": [
+    "Used in stir-fries, salads, and baking",
+    "Grilled or roasted as a side dish",
+    "Can be spiralized into noodles"
+  ],
+  "tips": [
+    "Harvest when small for best flavor",
+    "Water consistently to avoid bitterness",
+    "Space plants 60–90 cm (24–36 inches) apart",
+    "Mulch to retain moisture and suppress weeds"
+  ]
+},
+{
+  "id": "wheat",
+  "name": "Wheat",
+  "scientificName": "Triticum aestivum",
+  "description": "A staple cereal grain used globally for making flour, bread, and more.",
+  "sunlight": "Full Sun",
+  "water": "Low to Moderate",
+  "image": "images/wheat.jpg",
+  "soil": "Loamy, well-drained",
+  "temperature": "12–25°C",
+  "climate": "Cool and dry",
+  "growingSeason": "Winter",
+  "daysToMature": "120–150 days",
+  "harvestTime": "Spring to early summer",
+  "nutrients": [
+    { "name": "Carbohydrates", "benefit": "Primary energy source" },
+    { "name": "Protein", "benefit": "Supports body repair and growth" },
+    { "name": "B Vitamins", "benefit": "Enhances metabolism" }
+  ],
+  "uses": [
+    "Flour for bread, chapati, and pasta",
+    "Used in breakfast cereals",
+    "Straw for mulch or fodder"
+  ],
+  "tips": [
+    "Avoid waterlogging",
+    "Ensure full sunlight for better yield",
+    "Harvest when grains are golden and hard",
+    "Space plants 15–20 cm (6–8 inches) apart"
+  ]
+},
+{
+  "id": "barley",
+  "name": "Barley",
+  "scientificName": "Hordeum vulgare",
+  "description": "A cereal grain used for food, animal feed, and brewing.",
+  "sunlight": "Full Sun",
+  "water": "Low to Moderate",
+  "image": "images/barley.jpg",
+  "soil": "Well-drained, loamy soil",
+  "temperature": "10–20°C",
+  "climate": "Cool-season",
+  "growingSeason": "Spring to summer",
+  "daysToMature": "90–120 days",
+  "harvestTime": "Late summer to early fall",
+  "nutrients": [
+    { "name": "Fiber", "benefit": "Aids digestion" },
+    { "name": "B Vitamins", "benefit": "Supports metabolism" },
+    { "name": "Selenium", "benefit": "Antioxidant properties" }
+  ],
+  "uses": [
+    "Used in soups, salads, and bread",
+    "Fermented for beer production",
+    "Animal feed and health supplements"
+  ],
+  "tips": [
+    "Sow seeds in well-drained soil",
+    "Water moderately during dry spells",
+    "Harvest when grains are hard and golden",
+    "Space plants 15–20 cm (6–8 inches) apart"
+  ]
+},
+{
+  "id": "corn",
+  "name": "Corn",
+  "scientificName": "Zea mays",
+  "description": "A cereal plant that yields large grains, rich in carbs and essential nutrients.",
+  "sunlight": "Full Sun",
+  "water": "High – keep soil consistently moist",
+  "image": "images/corn.jpg",
+  "soil": "Fertile, well-drained loam",
+  "temperature": "18–35°C",
+  "climate": "Warm-season",
+  "growingSeason": "Spring to summer",
+  "daysToMature": "60–100 days",
+  "harvestTime": "Summer",
+  "nutrients": [
+    { "name": "Carbohydrates", "benefit": "Energy-rich food" },
+    { "name": "Fiber", "benefit": "Good for digestion" },
+    { "name": "Vitamin B", "benefit": "Supports energy metabolism" }
+  ],
+  "uses": [
+    "Consumed boiled, roasted, or ground into flour",
+    "Used in popcorn, tortillas, corn oil, and animal feed"
+  ],
+  "tips": [
+    "Plant in blocks for better pollination",
+    "Harvest when silk turns brown and kernels are full",
+    "Space plants 20–25 cm apart, rows 60–75 cm apart"
+  ]
+},
+{
+  "id": "millet",
+  "name": "Millet",
+  "scientificName": "Panicum miliaceum",
+  "description": "A group of small-seeded grasses, used as food and fodder.",
+  "sunlight": "Full Sun",
+  "water": "Low to Moderate",
+  "image": "images/millet.jpg",
+  "soil": "Well-drained, sandy loam",
+  "temperature": "20–30°C",
+  "climate": "Warm-season",
+  "growingSeason": "Spring to summer",
+  "daysToMature": "70–90 days",
+  "harvestTime": "Late summer to early fall",
+  "nutrients": [
+    { "name": "Fiber", "benefit": "Aids digestion" },
+    { "name": "Magnesium", "benefit": "Supports muscle and nerve function" },
+    { "name": "Iron", "benefit": "Prevents anemia" }
+  ],
+  "uses": [
+    "Used in porridge, bread, and snacks",
+    "Animal feed and birdseed"
+  ],
+  "tips": [
+    "Sow seeds in well-drained soil",
+    "Water moderately during dry spells",
+    "Harvest when grains are hard and golden",
+    "Space plants 15–20 cm (6–8 inches) apart"
+  ]
+},
+{
+  "id": "sorghum",
+  "name": "Sorghum",
+  "scientificName": "Sorghum bicolor",
+  "description": "A drought-resistant cereal grain used for food and fodder.",
+  "sunlight": "Full Sun",
+  "water": "Low to Moderate",
+  "image": "images/sorghum.jpg",
+  "soil": "Well-drained, loamy soil",
+  "temperature": "20–30°C",
+  "climate": "Warm-season",
+  "growingSeason": "Spring to summer",
+  "daysToMature": "90–120 days",
+  "harvestTime": "Late summer to early fall",
+  "nutrients": [
+    { "name": "Fiber", "benefit": "Aids digestion" },
+    { "name": "Protein", "benefit": "Supports body repair and growth" },
+    { "name": "Iron", "benefit": "Prevents anemia" }
+  ],
+  "uses": [
+    "Used in porridge, bread, and snacks",
+    "Animal feed and biofuel"
+  ],
+  "tips": [
+    "Sow seeds in well-drained soil",
+    "Water moderately during dry spells",
+    "Harvest when grains are hard and golden",
+    "Space plants 15–20 cm (6–8 inches) apart"
+  ]
+},
+{
+  "id": "onion",
+  "name": "Onion",
+  "scientificName": "Allium cepa",
+  "description": "A bulb vegetable used as a base flavor in many dishes, known for its strong aroma.",
+  "sunlight": "Full Sun",
+  "water": "Moderate",
+  "image": "images/onion.jpg",
+  "soil": "Loose, well-drained soil rich in organic matter",
+  "temperature": "12–24°C",
+  "climate": "Cool-season crop",
+  "growingSeason": "Autumn or early spring",
+  "daysToMature": "90–120 days",
+  "harvestTime": "Late spring to summer",
+  "nutrients": [
+    { "name": "Quercetin", "benefit": "Anti-inflammatory properties" },
+    { "name": "Vitamin C", "benefit": "Boosts immunity" },
+    { "name": "Sulfur compounds", "benefit": "Heart and liver support" }
+  ],
+  "uses": [
+    "Used in cooking globally for flavor",
+    "Can be pickled or eaten raw",
+    "Used in traditional remedies"
+  ],
+  "tips": [
+    "Ensure proper drying before storage",
+    "Remove flower stalks to promote bulb growth",
+    "Plant 10–15 cm apart, 30 cm between rows"
+  ]
+},
+{
+  "id": "garlic",
+  "name": "Garlic",
+  "scientificName": "Allium sativum",
+  "description": "A bulbous plant known for its strong flavor and health benefits.",
+  "sunlight": "Full Sun",
+  "water": "Moderate",
+  "image": "images/garlic.jpg",
+  "soil": "Well-drained, fertile soil",
+  "temperature": "13–24°C",
+  "climate": "Cool-season",
+  "growingSeason": "Fall to spring",
+  "daysToMature": "90–120 days",
+  "harvestTime": "Summer",
+  "nutrients": [
+    { "name": "Allicin", "benefit": "Antimicrobial and anti-inflammatory" },
+    { "name": "Vitamin C", "benefit": "Boosts immunity" },
+    { "name": "Manganese", "benefit": "Supports metabolism" }
+  ],
+  "uses": [
+    "Used in cooking for flavor and aroma",
+    "Used in traditional medicine for various ailments",
+    "Can be pickled or fermented"
+  ],
+  "tips": [
+    "Plant cloves in well-drained soil",
+    "Water regularly but avoid waterlogging",
+    "Harvest when leaves turn yellow and dry",
+    "Space cloves 10–15 cm (4–6 inches) apart"
+  ]
+},
+{
+  "id": "broccoli",
+  "name": "Broccoli",
+  "scientificName": "Brassica oleracea var. italica",
+  "description": "A green cruciferous vegetable loaded with fiber, vitamins, and antioxidants.",
+  "sunlight": "Full Sun",
+  "water": "Consistent moisture – don’t let soil dry",
+  "image": "images/broccoli.jpg",
+  "soil": "Rich, well-drained, slightly acidic",
+  "temperature": "15–25°C",
+  "climate": "Cool-season crop",
+  "growingSeason": "Autumn or early spring",
+  "daysToMature": "60–90 days",
+  "harvestTime": "Late autumn or early spring",
+  "nutrients": [
+    { "name": "Vitamin K", "benefit": "Supports bone health" },
+    { "name": "Vitamin C", "benefit": "Improves immunity" },
+    { "name": "Sulforaphane", "benefit": "May reduce cancer risk" }
+  ],
+  "uses": [
+    "Used in stir-fries, soups, and pastas",
+    "Eaten steamed or roasted",
+    "Great in salads or with dips"
+  ],
+  "tips": [
+    "Harvest heads before they flower",
+    "Keep consistent moisture",
+    "Space plants 45 cm apart with 60 cm between rows"
+  ]
+},
+{
+  "id": "cauliflower",
+  "name": "Cauliflower",
+  "scientificName": "Brassica oleracea var. botrytis",
+  "description": "A white cruciferous vegetable known for its versatility and health benefits.",
+  "sunlight": "Full Sun",
+  "water": "Moderate to High",
+  "image": "images/cauliflower.jpg",
+  "soil": "Well-drained, fertile soil rich in organic matter",
+  "temperature": "15–20°C",
+  "climate": "Cool-season crop",
+  "growingSeason": "Spring or fall",
+  "daysToMature": "70–100 days",
+  "harvestTime": "Late spring to early summer",
+  "nutrients": [
+    { "name": "Vitamin C", "benefit": "Boosts immunity" },
+    { "name": "Fiber", "benefit": "Aids digestion" },
+    { "name": "Antioxidants", "benefit": "Fights oxidative stress" }
+  ],
+  "uses": [
+    "Used in stir-fries, soups, and salads",
+    "Can be roasted, steamed, or eaten raw",
+    "Used as a low-carb substitute for rice or pizza crust"
+  ],
+  "tips": [
+    "Protect heads from sun to prevent yellowing",
+    "Keep soil consistently moist",
+    "Space plants 45 cm apart with 60 cm between rows"
+  ]
+},
+{
+  "id": "cabbage",
+  "name": "Cabbage",
+  "scientificName": "Brassica oleracea var. capitata",
+  "description": "A leafy green vegetable used in salads, stir-fries, and fermented dishes.",
+  "sunlight": "Full Sun",
+  "water": "Moderate",
+  "image": "images/cabbage.jpg",
+  "soil": "Well-drained, fertile soil rich in organic matter",
+  "temperature": "15–20°C",
+  "climate": "Cool-season crop",
+  "growingSeason": "Spring or fall",
+  "daysToMature": "70–120 days",
+  "harvestTime": "Late spring to early summer",
+  "nutrients": [
+    { "name": "Vitamin K", "benefit": "Supports bone health" },
+    { "name": "Vitamin C", "benefit": "Boosts immunity" },
+    { "name": "Fiber", "benefit": "Aids digestion" }
+  ],
+  "uses": [
+    "Used in salads, stir-fries, and soups",
+    "Fermented into sauerkraut or kimchi",
+    "Used as wraps or in coleslaw"
+  ],
+  "tips": [
+    "Harvest when heads are firm and tight",
+    "Keep soil consistently moist",
+    "Space plants 30 cm apart with 60 cm between rows"
+ ]
+},
+{
+  "id": "bell-pepper",
+  "name": "Bell Pepper",
+  "scientificName": "Capsicum annuum",
+  "description": "A colorful, mild-tasting pepper rich in antioxidants and vitamin C.",
+  "sunlight": "Full Sun",
+  "water": "Moderate – keep soil evenly moist",
+  "image": "images/bellpepper.jpg",
+  "soil": "Well-drained, loamy soil rich in organic matter",
+  "temperature": "18–30°C",
+  "climate": "Warm-season",
+  "growingSeason": "Spring to summer",
+  "daysToMature": "60–90 days",
+  "harvestTime": "Summer",
+  "nutrients": [
+    { "name": "Vitamin C", "benefit": "Strengthens immunity and skin health" },
+    { "name": "Vitamin A", "benefit": "Supports vision and immune system" },
+    { "name": "Antioxidants", "benefit": "Reduces cell damage and inflammation" }
+  ],
+  "uses": [
+    "Used in salads, stir-fries, pizzas, and curries",
+    "Can be stuffed, roasted, or grilled",
+    "Adds color and crunch to dishes"
+  ],
+  "tips": [
+    "Harvest when firm and fully colored",
+    "Stake tall varieties to support weight",
+    "Plant 45 cm apart with 60 cm between rows"
+  ]
+},
+{
+  "id": "green-gram",
+  "name": "Green Gram",
+  "scientificName": "Vigna radiata",
+  "description": "A short-duration legume crop grown for high-protein seeds and sprouts.",
+  "sunlight": "Full Sun",
+  "water": "Moderate – drought tolerant once established",
+  "image": "images/moong.jpg",
+  "soil": "Well-drained loamy or sandy loam soil",
+  "temperature": "25–35°C",
+  "climate": "Warm and dry",
+  "growingSeason": "Summer and Kharif season",
+  "daysToMature": "60–70 days",
+  "harvestTime": "Mid to late summer",
+  "nutrients": [
+    { "name": "Protein", "benefit": "Builds muscles and tissues" },
+    { "name": "Iron", "benefit": "Prevents anemia" },
+    { "name": "Folate", "benefit": "Good for pregnancy" }
+  ],
+  "uses": [
+    "Cooked whole, sprouted, or ground into flour",
+    "Used in soups, stews, and dosas",
+    "Improves soil fertility via nitrogen fixation"
+  ],
+  "tips": [
+    "Requires minimal fertilizer due to nitrogen-fixing roots",
+    "Use trellis for better airflow in humid areas",
+    "Plant 7–10 cm apart in rows 30 cm apart"
+  ]
+},
+{
+  "id": "chili-pepper",
+  "name": "Chili Pepper",
+  "scientificName": "Capsicum frutescens",
+  "description": "A fiery fruit used in cuisines for heat and flavor, with many health benefits.",
+  "sunlight": "Full Sun",
+  "water": "Moderate – avoid waterlogging",
+  "image": "images/chili.jpg",
+  "soil": "Well-drained, fertile soil with good organic matter",
+  "temperature": "20–30°C",
+  "climate": "Warm and humid",
+  "growingSeason": "Spring to summer",
+  "daysToMature": "70–100 days",
+  "harvestTime": "Mid to late summer",
+  "nutrients": [
+    { "name": "Capsaicin", "benefit": "Pain relief and boosts metabolism" },
+    { "name": "Vitamin A", "benefit": "Supports eye and immune health" },
+    { "name": "Vitamin B6", "benefit": "Aids brain function" }
+  ],
+  "uses": [
+    "Used fresh, dried, or powdered in curries, sauces, and pickles",
+    "Medicinal use for topical pain relief",
+    "Preserved in oil or vinegar"
+  ],
+  "tips": [
+    "Harvest when fully red for most heat",
+    "Use gloves when handling spicy varieties",
+    "Space 45 cm apart with 60 cm between rows"
+  ]
+},
+{
+  "id": "potato",
+  "name": "Potato",
+  "scientificName": "Solanum tuberosum",
+  "description": "A starchy root vegetable widely used in almost every cuisine.",
+  "sunlight": "Full Sun",
+  "water": "Regular watering – avoid waterlogging",
+  "image": "images/potato.jpg",
+  "soil": "Loose, well-drained soil rich in organic matter",
+  "temperature": "15–25°C",
+  "climate": "Cool-season",
+  "growingSeason": "Winter or early spring",
+  "daysToMature": "90–120 days",
+  "harvestTime": "Late winter to early summer",
+  "nutrients": [
+    { "name": "Carbohydrates", "benefit": "Energy source" },
+    { "name": "Potassium", "benefit": "Maintains heart health" },
+    { "name": "Vitamin C", "benefit": "Supports immunity" }
+  ],
+  "uses": [
+    "Boiled, fried, baked, mashed, or curried",
+    "Used in chips, fries, soups, and snacks",
+    "Staple food in many countries"
+  ],
+  "tips": [
+    "Hill soil around plants as they grow to avoid green potatoes",
+    "Harvest after plants yellow and die back",
+    "Plant 30 cm apart with 60 cm between rows"
+  ]
+},
+{
+  "id": "turmeric",
+  "name": "Turmeric",
+  "scientificName": "Curcuma longa",
+  "description": "A golden root known for its powerful anti-inflammatory and antioxidant properties.",
+  "sunlight": "Partial Shade to Full Sun",
+  "water": "Regular, keep soil consistently moist",
+  "image": "images/turmeric.jpg",
+  "soil": "Fertile, well-drained, sandy or loamy soil",
+  "temperature": "20–30°C",
+  "climate": "Warm, humid climate",
+  "growingSeason": "Spring to early summer",
+  "daysToMature": "200–250 days",
+  "harvestTime": "Winter",
+  "nutrients": [
+    { "name": "Curcumin", "benefit": "Reduces inflammation and boosts immunity" },
+    { "name": "Iron", "benefit": "Supports blood health" },
+    { "name": "Manganese", "benefit": "Supports bone health" }
+  ],
+  "uses": [
+    "Used as a spice and natural dye",
+    "Medicinal use in teas and ointments",
+    "Essential in curries and golden milk"
+  ],
+  "tips": [
+    "Plant 30 cm apart in raised beds for drainage",
+    "Mulch to retain moisture and suppress weeds",
+    "Harvest when leaves turn yellow and dry"
+  ]
+},
+{
+  "id": "radish",
+  "name": "Radish",
+  "scientificName": "Raphanus sativus",
+  "description": "A crunchy root vegetable with a peppery flavor and fast-growing cycle.",
+  "sunlight": "Full Sun",
+  "water": "Regular – keep soil moist but not soggy",
+  "image": "images/radish.jpg",
+  "soil": "Loose, sandy soil free of stones",
+  "temperature": "10–25°C",
+  "climate": "Cool-season",
+  "growingSeason": "Autumn and Spring",
+  "daysToMature": "25–40 days",
+  "harvestTime": "Early winter or late spring",
+  "nutrients": [
+    { "name": "Vitamin C", "benefit": "Boosts immunity" },
+    { "name": "Folate", "benefit": "Helps in red blood cell formation" },
+    { "name": "Fiber", "benefit": "Supports digestion" }
+  ],
+  "uses": [
+    "Eaten raw, in salads, pickled, or stir-fried",
+    "Radish leaves are edible and nutritious",
+    "Used in soups and traditional dishes"
+  ],
+  "tips": [
+    "Thin plants early for proper bulb development",
+    "Keep soil loose for proper root expansion",
+    "Space 5–7 cm apart in rows 15 cm apart"
+  ]
+},
+{
+  "id": "mustard",
+  "name": "Mustard",
+  "scientificName": "Brassica juncea",
+  "description": "A fast-growing leafy green also cultivated for its spicy seeds.",
+  "sunlight": "Full Sun to Partial Shade",
+  "water": "Moderate – consistent moisture",
+  "image": "images/mustard.jpg",
+  "soil": "Rich, well-drained soil with neutral pH",
+  "temperature": "10–25°C",
+  "climate": "Cool-season crop",
+  "growingSeason": "Autumn and Spring",
+  "daysToMature": "30–60 days",
+  "harvestTime": "Late winter or spring",
+  "nutrients": [
+    { "name": "Vitamin A", "benefit": "Good for vision and skin" },
+    { "name": "Calcium", "benefit": "Strengthens bones" },
+    { "name": "Vitamin K", "benefit": "Supports blood clotting" }
+  ],
+  "uses": [
+    "Leaves cooked or stir-fried",
+    "Seeds used in pickles and oil",
+    "Used for mustard condiments and spice"
+  ],
+  "tips": [
+    "Harvest leaves when young for best taste",
+    "Can be succession planted every 2 weeks",
+    "Space 10–15 cm apart in rows 30 cm apart"
+  ]
+},
+{
+  "id": "ginger",
+  "name": "Ginger",
+  "scientificName": "Zingiber officinale",
+  "description": "An aromatic root used in culinary and medicinal applications across cultures.",
+  "sunlight": "Partial Shade",
+  "water": "Moderate – keep soil moist",
+  "image": "images/ginger.jpg",
+  "soil": "Rich, well-drained loamy soil",
+  "temperature": "22–28°C",
+  "climate": "Tropical and subtropical",
+  "growingSeason": "Late spring",
+  "daysToMature": "8–10 months",
+  "harvestTime": "Winter to early spring",
+  "nutrients": [
+    { "name": "Gingerol", "benefit": "Relieves nausea and inflammation" },
+    { "name": "Potassium", "benefit": "Maintains heart health" },
+    { "name": "Magnesium", "benefit": "Helps with muscle function" }
+  ],
+  "uses": [
+    "Used fresh, dried, or powdered in cooking",
+    "Used in teas and traditional medicines",
+    "Great in curries, sweets, and juices"
+  ],
+  "tips": [
+    "Use rhizomes with buds for planting",
+    "Mulch well to retain moisture",
+    "Space 20–25 cm apart in rows 30 cm apart"
+  ]
+},
+{
+  "id": "basil",
+  "name": "Basil",
+  "scientificName": "Ocimum basilicum",
+  "description": "A fragrant herb used in Italian and Southeast Asian cuisines.",
+  "sunlight": "Full Sun",
+  "water": "Moderate – water at base to avoid mildew",
+  "image": "images/basil.jpg",
+  "soil": "Moist, well-drained soil with rich organic content",
+  "temperature": "18–30°C",
+  "climate": "Warm-season",
+  "growingSeason": "Late spring to summer",
+  "daysToMature": "60–75 days",
+  "harvestTime": "Mid to late summer",
+  "nutrients": [
+    { "name": "Vitamin A", "benefit": "Supports eye and immune health" },
+    { "name": "Iron", "benefit": "Improves blood circulation" },
+    { "name": "Antioxidants", "benefit": "Protects cells from damage" }
+  ],
+  "uses": [
+    "Used in pesto, sauces, salads, and teas",
+    "Flavoring for oils and dressings",
+    "Fresh garnish for soups and pizzas"
+  ],
+  "tips": [
+    "Pinch flowers to promote leaf growth",
+    "Harvest regularly to encourage new shoots",
+    "Space 20–30 cm apart in rows 30–40 cm apart"
+  ]
+},
+{
+  "id": "tulsi",
+  "name": "Tulsi",
+  "scientificName": "Ocimum tenuiflorum",
+  "description": "A sacred medicinal herb known for its immunity-boosting and adaptogenic properties.",
+  "sunlight": "Full Sun",
+  "water": "Moderate – allow topsoil to dry slightly between watering",
+  "image": "images/tulsi.jpg",
+  "soil": "Well-drained soil with organic compost",
+  "temperature": "20–35°C",
+  "climate": "Warm tropical climate",
+  "growingSeason": "Spring to monsoon",
+  "daysToMature": "60–90 days",
+  "harvestTime": "Summer and autumn",
+  "nutrients": [
+    { "name": "Eugenol", "benefit": "Reduces stress and inflammation" },
+    { "name": "Vitamin C", "benefit": "Boosts immunity" },
+    { "name": "Zinc", "benefit": "Fights infections" }
+  ],
+  "uses": [
+    "Used in herbal teas and Ayurvedic medicine",
+    "Natural remedy for coughs, colds, and stress",
+    "Used in religious rituals in India"
+  ],
+  "tips": [
+    "Pinch top leaves to encourage bushiness",
+    "Keep in a sunny, warm spot",
+    "Plant 30 cm apart in rows 40 cm apart"
+  ]
+},
+{
+  "id": "amaranth",
+  "name": "Amaranth",
+  "scientificName": "Amaranthus spp.",
+  "description": "An ancient pseudo-cereal cultivated for both its protein-rich seeds and leafy greens, used in traditional diets across the world.",
+  "sunlight": "Full Sun",
+  "water": "Low to Moderate – drought tolerant once established",
+  "image": "images/amaranth.jpg",
+  "soil": "Well-drained soil, tolerates poor or marginal soils",
+  "temperature": "20–35°C",
+  "climate": "Tropical to subtropical, prefers warm and dry conditions",
+  "growingSeason": "Late spring to early summer",
+  "daysToMature": "45–70 days for leaves, 100–120 for seeds",
+  "harvestTime": "Summer for leaves, late summer to early autumn for seeds",
+  "nutrients": [
+    { "name": "Protein", "benefit": "Supports growth and repair of tissues" },
+    { "name": "Calcium", "benefit": "Strengthens bones and teeth" },
+    { "name": "Lysine", "benefit": "Amino acid important for immune function" }
+  ],
+  "uses": [
+    "Leaves eaten in curries, stir-fries, or steamed",
+    "Seeds popped or ground into flour for porridge or flatbreads",
+    "Used in traditional fasting foods in many cultures"
+  ],
+  "tips": [
+    "Harvest leaves when young for tenderness",
+    "Allow seeds to fully mature on plant before harvest",
+    "Space 20–25 cm apart; thin early for best seed heads"
+  ]
+}
+
+
+
+]
