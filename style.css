@@ -80,3 +80,55 @@ ul {
 li {
     margin-bottom: 0.5rem;
 }
+.footer {
+    text-align: center;
+    padding: 1.5rem;
+    background-color: #f4f9f4;
+    color: #333;
+    font-size: 0.9rem;
+    border-top: 1px solid #d0e6d0;
+}
+
+.footer a {
+    color: #447744;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+/* Terms page styling */
+.terms-page .container {
+    max-width: 700px;
+    margin: 3rem auto;
+    padding: 1rem 2rem;
+    background-color: #f9fdf9;
+    color: #333;
+    font-family: sans-serif;
+    line-height: 1.6;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.terms-page h1 {
+    color: #336633;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.back-button {
+    display: inline-block;
+    margin-top: 2rem;
+    padding: 0.5rem 1rem;
+    background-color: #eaf7ea;
+    color: #336633;
+    text-decoration: none;
+    border-radius: 6px;
+    border: 1px solid #cde5cd;
+    transition: background 0.3s;
+}
+
+.back-button:hover {
+    background-color: #d4ecd4;
+}
